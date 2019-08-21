@@ -1,3 +1,10 @@
+# Heroku React
+
+Simple REST API example for Heroku using React front end and Django and Django REST Framework backend
+
+- [Backend](https://github.com/kimpeek/heroku_django_rest)
+- [View Live](http://fixed-screw.surge.sh/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
