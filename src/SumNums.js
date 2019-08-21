@@ -19,7 +19,7 @@ class SumNums extends Component {
 
     let response = await axios({
       method: 'post',
-      url: 'https://aqueous-caverns-17073.herokuapp.com/sum/sum',
+      url: 'https://sleepy-temple-91736.herokuapp.com/item/example',
       data: {
         x: +this.state.x,
         y: +this.state.y
